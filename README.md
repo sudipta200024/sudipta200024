@@ -71,8 +71,7 @@ A versatile developer passionate about building scalable, user-friendly applicat
 
 ## 📊 GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudipta200024&theme=tokyonight)---
-
+![Visitor Count](https://komarev.com/ghpvc/?username=sudipta200024&color=blue&style=for-the-badge)
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudipta-das2025/)
