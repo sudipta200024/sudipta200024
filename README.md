@@ -71,8 +71,7 @@ A versatile developer passionate about building scalable, user-friendly applicat
 
 ## 📊 GitHub Stats
 
-![Sudipta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudipta200024&show_icons=true&theme=default&hide_border=true)
-
+![Sudipta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudipta200024&show_icons=true&theme=tokyonight&count_private=true)
 ---
 
 ## 📫 Connect With Me
