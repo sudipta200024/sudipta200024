@@ -70,7 +70,9 @@ A versatile developer passionate about building scalable, user-friendly applicat
 
 ## 📊 GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudipta200024&theme=tokyonight)## 📫 Connect With Me
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudipta200024&theme=tokyonight)
+
+## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudipta-das2025/)
 
