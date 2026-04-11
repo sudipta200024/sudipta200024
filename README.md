@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **sudipta200024/sudipta200024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
