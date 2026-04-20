@@ -69,7 +69,7 @@ A versatile developer passionate about building scalable, user-friendly applicat
 ---
 
 ## 📊 GitHub Stats
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudipta200024&theme=tokyonight)
 
 ## 📫 Connect With Me
 
